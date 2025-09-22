@@ -37,7 +37,6 @@ header .container {
     color: #007bff;
 }
 
-/* Меню */
 nav {
     background-color: #343a40;
     width: 100%;
@@ -61,7 +60,6 @@ nav {
     color: #007bff;
 }
 
-/* Основной контент */
 main {
     padding: 40px 0;
 }
@@ -70,7 +68,6 @@ section {
     margin-bottom: 40px;
 }
 
-/* Таблица */
 table {
     width: 100%;
     border-collapse: collapse;
@@ -126,4 +123,5 @@ ul, ol {
 
 li {
     margin-bottom: 5px;
+
 }
